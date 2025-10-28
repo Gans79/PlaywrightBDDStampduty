@@ -20,8 +20,6 @@ Scenario Outline: Revenue NSW Motor vehicle calculator verify duty
     When User clicks '<radios>' and enters purchase <purchase price> and clicks calculate
     Then Pop up calculation window is shown with <value> and <duty payable>
 
-   
-
     Examples:
         | url                                                                         | button       | radio | purchase price  | duty payable  | value      | 
         | https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty   | Check online | Yes   | 40000           | $1,200.00    | $40,000.00 | 

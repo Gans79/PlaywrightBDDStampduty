@@ -38,5 +38,5 @@ test.use({
 
 const testMetaMap = {
   "Revenue NSW Motor vehicle calculator check online|Example #1": {"pickleLocation":"13:9","tags":["@demo","@TC01"]},
-  "Revenue NSW Motor vehicle calculator verify duty|Example #1": {"pickleLocation":"27:9","tags":["@demo","@TC02"]},
+  "Revenue NSW Motor vehicle calculator verify duty|Example #1": {"pickleLocation":"25:9","tags":["@demo","@TC02"]},
 };

@@ -2,7 +2,7 @@
 Feature: Nsw Gov Motor Vehicle Stamp Duty  
     Motor Vehicle registration duty calculator
 
-@TC01
+@TC001
 Scenario Outline: Revenue NSW Motor vehicle calculator check online  
     Given Navigate to motor vehicle stamp duty via '<url>'
     When I click on '<button>' on the stamp duty page 
